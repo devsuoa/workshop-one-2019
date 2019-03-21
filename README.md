@@ -55,6 +55,7 @@ React Native app within minutes.
  4) Type ```npm start```
  5) Installation will take place, afterwards a QR code should appear in the terminal
  6) Open the expo app on your phone and scan the QR code
+ Note: If you are on an iPhone, the Expo app may not have a built in QR code scanner- just use your phones camera instead!
 
 &nbsp;
 &nbsp;
@@ -101,4 +102,5 @@ To test if node and npm were installed properly, open the command line and run t
  4) Type ```npm start```
  5) Installation will take place, afterwards a QR code should appear in the terminal
  6) Open the expo app on your phone and scan the QR code
+ Note: If you are on an iPhone, the Expo app may not have a built in QR code scanner- just use your phones camera instead!
 
