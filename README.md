@@ -51,7 +51,7 @@ React Native app within minutes.
  ##### Creating and testing our first Expo app
  1) Open the terminal
  2) Navigate to the directory where you want expo projects to be saved
- 3) Type ```expo init swipe-app```
+ 3) Type ```expo init swipe-app``` and pick the Blank template.
  4) Type ```npm start```
  5) Installation will take place, afterwards a QR code should appear in the terminal
  6) Open the expo app on your phone and scan the QR code
@@ -99,7 +99,7 @@ To test if node and npm were installed properly, open the command line and run t
  ##### Creating and testing our first Expo app
  1) Open the terminal
  2) Navigate to the directory where you want expo projects to be saved
- 3) Type ```expo init swipe-app```
+ 3) Type ```expo init swipe-app``` and pick the Blank template.
  4) Type ```npm start```
  5) Installation will take place, afterwards a QR code should appear in the terminal
  6) Open the expo app on your phone and scan the QR code
