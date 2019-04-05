@@ -1,3 +1,8 @@
+# Thanks
+
+A big thank you to everyone who attended workshop one.
+
+The recording is available here: https://drive.google.com/open?id=1tCGRYzMrdPTV6VOKEscXOZvNNioi_KrM
 
 # Developer's Society Workshop Prerequsities
 
